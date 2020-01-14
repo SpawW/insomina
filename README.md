@@ -1,4 +1,4 @@
-Role Name
+Insominia
 =========
 
 A quick way to install Insominia.
