@@ -1,7 +1,7 @@
 Insominia
 =========
 
-A quick way to install Insominia.
+A quick way to install Insominia (https://insomnia.rest/).
 
 Requirements
 ------------
@@ -28,7 +28,7 @@ Example Playbook
 License
 -------
 
-BSD
+MIT
 
 Author Information
 ------------------
